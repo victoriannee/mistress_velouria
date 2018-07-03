@@ -1,0 +1,29 @@
+* {
+/*	border: 1px solid pink;
+*/}
+
+
+body {
+	background-color: black;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Bungee', cursive;
+	color: #ff0033;
+}
+
+h2 {
+	font-family: 'Bungee', cursive;
+	color: #ff0033;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	color: #ff0033;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
