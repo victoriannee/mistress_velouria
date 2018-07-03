@@ -1,29 +1,41 @@
 * {
-/*	border: 1px solid pink;
-*/}
+	border: 1px solid pink;
+}
 
 
 body {
-	background-color: black;
-	font-family: 'Open Sans', sans-serif;
+	background-color: #F1E3F3;
+	font-family: 'EB Garamond', serif;
 	margin: 0px;
 }
 
 h1 {
-	font-family: 'Bungee', cursive;
-	color: #ff0033;
+	font-family: 'IM Fell Double Pica', serif;
+	color: black;
 }
 
 h2 {
-	font-family: 'Bungee', cursive;
+	font-family: 'EB Garamond', serif;
 	color: #ff0033;
 }
 
 h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'EB Garamond', serif;
 	color: #ff0033;
 }
 
 p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'EB Garamond', serif;
+}
+
+
+.header {
+	height: 480px;
+	background-image: url("images/backlit-beach.jpg");
+	background-size: cover;
+}
+
+.header h1 {
+	text-align: center;
+	color: black;
 }
